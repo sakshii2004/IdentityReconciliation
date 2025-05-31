@@ -20,7 +20,7 @@ src/
 - index.js                 # Entry point of the server
 
 # API Endpoint
-Available at: https://identityreconciliationsakshisah.onrender.com
+Available at: [https://identityreconciliationsakshisah.onrender.com](https://identityreconciliationsakshisah.onrender.com/api/identify)
 
 Sample Request Format:
 `{
