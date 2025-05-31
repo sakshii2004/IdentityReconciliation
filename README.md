@@ -64,15 +64,15 @@ deletedAt:
 - Used for soft deletion (enabled via Sequelize’s paranoid mode)
 
 # Environment Variables (.env)
-`DB_NAME=your_db
-DB_USER=your_user
-DB_PASS=your_password
-DB_HOST=localhost
-DB_PORT=3306`
+`DB_NAME=your_db`
+`DB_USER=your_user`
+`DB_PASS=your_password`
+`DB_HOST=localhost`
+`DB_PORT=3306`
 
 # Install dependencies
 `npm install`
 
 # Start server
-`npm run dev    # for development with nodemon
-npm start      # for production`
+`npm run dev    # for development with nodemon`
+`npm start      # for production`
