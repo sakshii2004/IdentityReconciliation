@@ -8,16 +8,7 @@ This backend API identifies and manages contact information by consolidating mul
 - dotenv for environment variable management
 
 # Project Structure
-src/
-├── config/
-│   └── database.js            # Sequelize DB connection
-├── controllers/
-│   └── identify.controller.js # Core logic for contact identification
-├── models/
-│   └── contact.js             # Sequelize Contact model
-├── routes/
-│   └── identify.route.js      # Route for POST /identify
-├── index.js            
+<pre lang="md"> <code> ``` src/ ├── config/ │ └── database.js # Sequelize DB connection ├── controllers/ │ └── identify.controller.js # Core logic for contact identification ├── models/ │ └── contact.js # Sequelize Contact model ├── routes/ │ └── identify.route.js # Route for POST /identify ├── index.js # Entry point of the server ``` </code> </pre>          
 
 # API Endpoint
 Available at: https://identityreconciliationsakshisah.onrender.com
